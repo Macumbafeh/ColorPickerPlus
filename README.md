@@ -1,5 +1,5 @@
-# ColorPickerPlus (1.12 version)
-
+# ColorPickerPlus (2.4.3 version)
+fork of : https://github.com/mrrosh/ColorPickerPlus
 Original: http://www.curse.com/addons/wow/colorpickerplus
 
 Adds improved features to the existing Blizzard color picker widget. Features
