@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 20400
 ## Title: ColorPickerPlus |cff7fff7f-Ace2-|r |cffff00001.12|r
 ## Author: jaslm, 1.12 port by SweedJesus (Miraculin @ Nostalrius)
 ## X-Website: https://sweedjesus.github.io/my-addons/
