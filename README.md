@@ -37,7 +37,7 @@ Control-left-click on the chosen color will print the decimal RGB values for the
 
  
 
-Useful external tools for generating color palettes:
+# Useful external tools for generating color palettes:
 
 https://color.adobe.com/ and http://tools.medialab.sciences-po.fr/iwanthue/
       
