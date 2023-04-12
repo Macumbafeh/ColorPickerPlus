@@ -41,7 +41,8 @@ Useful external tools for generating color palettes:
 
       https://color.adobe.com/   and    http://tools.medialab.sciences-po.fr/iwanthue/
       
-      ![image](https://user-images.githubusercontent.com/47739411/231474619-f173f874-4729-45ed-bef6-6f20d8d74581.png)
+     
+![image](https://user-images.githubusercontent.com/47739411/231474619-f173f874-4729-45ed-bef6-6f20d8d74581.png)
       
       
 ![image](https://user-images.githubusercontent.com/47739411/231474771-9fa1adc1-7779-4ee1-956c-c01da9b52a7a.png)
